@@ -1,4 +1,4 @@
-package review0408;
+package first_git.review0408;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
